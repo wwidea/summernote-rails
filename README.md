@@ -1,5 +1,9 @@
 # Summernote::Rails
 
+This fork patches https://github.com/summernote/summernote/issues/1037 with https://github.com/summernote/summernote/pull/2180.
+
+When `summernote-rails` gem has the update in https://github.com/summernote/summernote/pull/2180, this fork will be obsolete, and should be deleted at that time.
+
 This gem was built to package the assets used in Summernote, the Super Simple WYSIWYG Editor on Bootstrap, for Ruby on Rails version >= 3.1.
 
 https://github.com/summernote/summernote-rails.
